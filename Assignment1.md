@@ -47,6 +47,6 @@ Below are examples of evaluating arithmetic expressions in Python.
 - Convert minutes to hours using Python
 - Present tools used in the Data Science ecosystem
 
-## Author
+# Author
 
 **AAKRITI MITTAL **
